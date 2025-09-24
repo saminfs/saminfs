@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @saminfs
-- 👀 I’m interested in ...coding
-- 🌱 I’m currently learning ...html,css,javascript.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ..
+# 👋 Hi, I’m Eusha Ibne Nur Sami 
 
-<!---
-saminfs/saminfs is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🌱 I’m interested in **coding, cloud computing, and cybersecurity**  
+- 💻 I’m currently learning **HTML, CSS, JavaScript, and Python**  
+- 🤝 I’m looking to collaborate on **open-source projects, web apps, and security tools**  
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/eusha-ibne-nur-10760a22a) | [Email](mailto:samilx210@gmail.com)  
+
+---
+
+✨ This is a special repository because its `README.md` appears on my GitHub profile.  
+🚀 I use this space to share my **projects, learning journey, and experiments in tech**.  
