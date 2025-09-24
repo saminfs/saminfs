@@ -7,5 +7,5 @@
 
 ---
 
-✨ This is a special repository because its `README.md` appears on my GitHub profile.  
-🚀 I use this space to share my **projects, learning journey, and experiments in tech**.  
+
+
